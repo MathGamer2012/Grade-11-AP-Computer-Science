@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\bin\Debug\Funktions.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\bin\Debug\Funktions.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\bin\Debug\Funktions.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\obj\Debug\Funktions.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\obj\Debug\Funktions.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\obj\Debug\Funktions.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Funktions\obj\Debug\Funktions.pdb

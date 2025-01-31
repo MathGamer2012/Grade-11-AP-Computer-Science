@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\bin\Debug\QuizReview.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\bin\Debug\QuizReview.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\bin\Debug\QuizReview.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\obj\Debug\QuizReview.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\obj\Debug\QuizReview.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\obj\Debug\QuizReview.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\QuizReview\obj\Debug\QuizReview.pdb

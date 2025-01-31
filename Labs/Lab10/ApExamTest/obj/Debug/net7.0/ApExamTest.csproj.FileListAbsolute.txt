@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\bin\Debug\net7.0\ApExamTest.exe
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\bin\Debug\net7.0\ApExamTest.deps.json
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\bin\Debug\net7.0\ApExamTest.runtimeconfig.json
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\bin\Debug\net7.0\ApExamTest.dll
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\bin\Debug\net7.0\ApExamTest.pdb
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.AssemblyInfo.cs
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.dll
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\refint\ApExamTest.dll
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.pdb
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ApExamTest.genruntimeconfig.cache
+C:\Users\Dell\Documents\CompSci_School\Labs\Lab10\ApExamTest\obj\Debug\net7.0\ref\ApExamTest.dll

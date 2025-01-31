@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\bin\Debug\Cirkumference.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\bin\Debug\Cirkumference.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\bin\Debug\Cirkumference.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\obj\Debug\Cirkumference.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\obj\Debug\Cirkumference.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\obj\Debug\Cirkumference.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Cirkumference\obj\Debug\Cirkumference.pdb

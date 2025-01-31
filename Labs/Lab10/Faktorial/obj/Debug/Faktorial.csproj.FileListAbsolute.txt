@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\bin\Debug\Faktorial.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\bin\Debug\Faktorial.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\bin\Debug\Faktorial.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\obj\Debug\Faktorial.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\obj\Debug\Faktorial.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\obj\Debug\Faktorial.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Faktorial\obj\Debug\Faktorial.csprojAssemblyReference.cache
