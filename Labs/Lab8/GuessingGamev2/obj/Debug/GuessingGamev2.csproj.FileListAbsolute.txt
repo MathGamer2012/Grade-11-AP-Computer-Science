@@ -1,0 +1,6 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab8\GuessingGamev2\bin\Debug\GuessingGamev2.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab8\GuessingGamev2\bin\Debug\GuessingGamev2.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab8\GuessingGamev2\bin\Debug\GuessingGamev2.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab8\GuessingGamev2\obj\Debug\GuessingGamev2.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab8\GuessingGamev2\obj\Debug\GuessingGamev2.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab8\GuessingGamev2\obj\Debug\GuessingGamev2.pdb
