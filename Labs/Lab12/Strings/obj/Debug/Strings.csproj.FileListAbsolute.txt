@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\bin\Debug\Strings.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\bin\Debug\Strings.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\bin\Debug\Strings.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\obj\Debug\Strings.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Strings\obj\Debug\Strings.pdb

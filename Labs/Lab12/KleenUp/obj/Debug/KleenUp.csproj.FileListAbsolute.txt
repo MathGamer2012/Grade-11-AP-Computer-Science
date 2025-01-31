@@ -1,0 +1,14 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\obj\Debug\KleenUp.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\obj\Debug\KleenUp.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\bin\Debug\KleenUp.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\bin\Debug\KleenUp.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\bin\Debug\KleenUp.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\obj\Debug\KleenUp.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\KleenUp\obj\Debug\KleenUp.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\bin\Debug\KleenUp.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\bin\Debug\KleenUp.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\bin\Debug\KleenUp.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\obj\Debug\KleenUp.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\obj\Debug\KleenUp.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\obj\Debug\KleenUp.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\KleenUp\obj\Debug\KleenUp.pdb

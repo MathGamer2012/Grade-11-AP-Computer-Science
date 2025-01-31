@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\bin\Debug\TotalPrice.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\bin\Debug\TotalPrice.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\bin\Debug\TotalPrice.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\obj\Debug\TotalPrice.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\obj\Debug\TotalPrice.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\obj\Debug\TotalPrice.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\TotalPrice\obj\Debug\TotalPrice.pdb

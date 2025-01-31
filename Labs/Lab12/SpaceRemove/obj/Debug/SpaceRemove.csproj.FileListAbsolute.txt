@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\bin\Debug\SpaceRemove.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\bin\Debug\SpaceRemove.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\bin\Debug\SpaceRemove.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\obj\Debug\SpaceRemove.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\obj\Debug\SpaceRemove.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\obj\Debug\SpaceRemove.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\SpaceRemove\obj\Debug\SpaceRemove.pdb
