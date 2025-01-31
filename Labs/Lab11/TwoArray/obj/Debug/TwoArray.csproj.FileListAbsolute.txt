@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\bin\Debug\TwoArray.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\bin\Debug\TwoArray.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\bin\Debug\TwoArray.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\obj\Debug\TwoArray.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\obj\Debug\TwoArray.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\obj\Debug\TwoArray.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\TwoArray\obj\Debug\TwoArray.csprojAssemblyReference.cache

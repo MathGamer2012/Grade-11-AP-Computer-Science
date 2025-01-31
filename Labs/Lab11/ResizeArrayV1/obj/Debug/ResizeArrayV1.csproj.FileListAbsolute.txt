@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\bin\Debug\ResizeArrayV1.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\bin\Debug\ResizeArrayV1.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\bin\Debug\ResizeArrayV1.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\obj\Debug\ResizeArrayV1.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\obj\Debug\ResizeArrayV1.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\obj\Debug\ResizeArrayV1.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ResizeArrayV1\obj\Debug\ResizeArrayV1.pdb
