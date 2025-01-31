@@ -1,0 +1,14 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\bin\Debug\CosineLaw.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\bin\Debug\CosineLaw.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\bin\Debug\CosineLaw.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\obj\Debug\CosineLaw.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\obj\Debug\CosineLaw.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\obj\Debug\CosineLaw.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\CosineLaw\obj\Debug\CosineLaw.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\bin\Debug\CosineLaw.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\bin\Debug\CosineLaw.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\bin\Debug\CosineLaw.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\obj\Debug\CosineLaw.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\obj\Debug\CosineLaw.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\obj\Debug\CosineLaw.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\CosineLaw\obj\Debug\CosineLaw.pdb

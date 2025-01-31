@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasterCalculator", "EasterCalculator\EasterCalculator.csproj", "{F67175FB-ED9C-4151-BE52-DCC7C8F87D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosineLaw", "CosineLaw\CosineLaw.csproj", "{C07949BA-E305-40A6-8998-79B758005942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67175FB-ED9C-4151-BE52-DCC7C8F87D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67175FB-ED9C-4151-BE52-DCC7C8F87D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67175FB-ED9C-4151-BE52-DCC7C8F87D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67175FB-ED9C-4151-BE52-DCC7C8F87D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07949BA-E305-40A6-8998-79B758005942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07949BA-E305-40A6-8998-79B758005942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07949BA-E305-40A6-8998-79B758005942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07949BA-E305-40A6-8998-79B758005942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE3526F-661A-4366-BDA0-2D95C38925F3}
+	EndGlobalSection
+EndGlobal

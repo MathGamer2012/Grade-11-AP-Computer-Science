@@ -1,0 +1,14 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\bin\Debug\EasterCalculator.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\bin\Debug\EasterCalculator.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\bin\Debug\EasterCalculator.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\obj\Debug\EasterCalculator.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\obj\Debug\EasterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\obj\Debug\EasterCalculator.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2\EasterCalculator\obj\Debug\EasterCalculator.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\bin\Debug\EasterCalculator.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\bin\Debug\EasterCalculator.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\bin\Debug\EasterCalculator.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\obj\Debug\EasterCalculator.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\obj\Debug\EasterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\obj\Debug\EasterCalculator.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment2_MittalI\EasterCalculator\obj\Debug\EasterCalculator.pdb
