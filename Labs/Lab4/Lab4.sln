@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleCalc", "CircleCalc\CircleCalc.csproj", "{C4982B45-1640-4161-8B3B-1DC87E93F26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanTheorem", "PythagoreanTheorem\PythagoreanTheorem.csproj", "{106C8CA0-7DDC-49F0-AD9B-A8C809817CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalc", "AreaCalc\AreaCalc.csproj", "{38F72DD7-8F58-424F-837A-ACC2CEA9553C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcQuadratic", "CalcQuadratic\CalcQuadratic.csproj", "{A3A9269D-D7F2-4B0F-B16D-70FF057E7543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinExchange", "CoinExchange\CoinExchange.csproj", "{9B388463-889C-40A5-9197-E3CDC6122781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceHolder", "PlaceHolder\PlaceHolder.csproj", "{D5552D96-D967-4B67-A66C-1F5E4928D191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizPrep", "QuizPrep\QuizPrep.csproj", "{43547193-7B51-470F-B206-E4FDF66A694E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4982B45-1640-4161-8B3B-1DC87E93F26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4982B45-1640-4161-8B3B-1DC87E93F26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4982B45-1640-4161-8B3B-1DC87E93F26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4982B45-1640-4161-8B3B-1DC87E93F26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106C8CA0-7DDC-49F0-AD9B-A8C809817CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106C8CA0-7DDC-49F0-AD9B-A8C809817CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106C8CA0-7DDC-49F0-AD9B-A8C809817CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106C8CA0-7DDC-49F0-AD9B-A8C809817CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F72DD7-8F58-424F-837A-ACC2CEA9553C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F72DD7-8F58-424F-837A-ACC2CEA9553C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F72DD7-8F58-424F-837A-ACC2CEA9553C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F72DD7-8F58-424F-837A-ACC2CEA9553C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A9269D-D7F2-4B0F-B16D-70FF057E7543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A9269D-D7F2-4B0F-B16D-70FF057E7543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A9269D-D7F2-4B0F-B16D-70FF057E7543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A9269D-D7F2-4B0F-B16D-70FF057E7543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B388463-889C-40A5-9197-E3CDC6122781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B388463-889C-40A5-9197-E3CDC6122781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B388463-889C-40A5-9197-E3CDC6122781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B388463-889C-40A5-9197-E3CDC6122781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5552D96-D967-4B67-A66C-1F5E4928D191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5552D96-D967-4B67-A66C-1F5E4928D191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5552D96-D967-4B67-A66C-1F5E4928D191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5552D96-D967-4B67-A66C-1F5E4928D191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43547193-7B51-470F-B206-E4FDF66A694E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43547193-7B51-470F-B206-E4FDF66A694E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43547193-7B51-470F-B206-E4FDF66A694E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43547193-7B51-470F-B206-E4FDF66A694E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30225E89-725E-456E-8793-7B6240D6018A}
+	EndGlobalSection
+EndGlobal
