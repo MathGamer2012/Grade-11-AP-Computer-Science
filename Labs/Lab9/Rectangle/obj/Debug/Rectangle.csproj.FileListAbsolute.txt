@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\Rectangle\obj\Debug\Rectangle.pdb

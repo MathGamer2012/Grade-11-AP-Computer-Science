@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\bin\Debug\TwoDice.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\bin\Debug\TwoDice.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\bin\Debug\TwoDice.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\obj\Debug\TwoDice.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\obj\Debug\TwoDice.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\obj\Debug\TwoDice.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\TwoDice\obj\Debug\TwoDice.csprojAssemblyReference.cache

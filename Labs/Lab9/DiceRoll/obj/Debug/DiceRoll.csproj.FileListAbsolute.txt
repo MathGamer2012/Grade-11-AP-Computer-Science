@@ -1,0 +1,6 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\DiceRoll\obj\Debug\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\DiceRoll\obj\Debug\DiceRoll.pdb

@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\obj\Debug\OutputTest.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\obj\Debug\OutputTest.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\bin\Debug\OutputTest.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\bin\Debug\OutputTest.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\bin\Debug\OutputTest.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\obj\Debug\OutputTest.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OutputTest\obj\Debug\OutputTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\bin\Debug\OneDice.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\bin\Debug\OneDice.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\bin\Debug\OneDice.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\obj\Debug\OneDice.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\obj\Debug\OneDice.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\obj\Debug\OneDice.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab9\OneDice\obj\Debug\OneDice.pdb
