@@ -1,0 +1,10 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\bin\Debug\NumberCheck.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\bin\Debug\NumberCheck.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\bin\Debug\NumberCheck.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.frmMain.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.Properties.Resources.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.csproj.GenerateResource.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberCheck\obj\Debug\NumberCheck.pdb

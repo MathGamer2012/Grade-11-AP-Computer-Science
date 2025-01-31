@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\bin\Debug\BMI.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\bin\Debug\BMI.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\bin\Debug\BMI.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\obj\Debug\BMI.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\BMI\obj\Debug\BMI.pdb

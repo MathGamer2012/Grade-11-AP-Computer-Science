@@ -1,0 +1,10 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\bin\Debug\MyFirstWindowsForm.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\bin\Debug\MyFirstWindowsForm.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\bin\Debug\MyFirstWindowsForm.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.Properties.Resources.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.csproj.GenerateResource.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\MyFirstWindowsForm\obj\Debug\MyFirstWindowsForm.frmMain.resources
