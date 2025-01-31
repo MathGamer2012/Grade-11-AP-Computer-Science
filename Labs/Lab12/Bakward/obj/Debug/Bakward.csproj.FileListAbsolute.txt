@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\bin\Debug\Bakward.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\bin\Debug\Bakward.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\bin\Debug\Bakward.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\obj\Debug\Bakward.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\obj\Debug\Bakward.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\obj\Debug\Bakward.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\Bakward\obj\Debug\Bakward.pdb

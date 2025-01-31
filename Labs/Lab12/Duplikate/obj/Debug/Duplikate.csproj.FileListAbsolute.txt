@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\bin\Debug\Duplikate.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\bin\Debug\Duplikate.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\bin\Debug\Duplikate.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\obj\Debug\Duplikate.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\obj\Debug\Duplikate.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\obj\Debug\Duplikate.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\Duplikate\obj\Debug\Duplikate.pdb

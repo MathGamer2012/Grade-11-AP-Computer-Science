@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\bin\Debug\AreaCode.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\bin\Debug\AreaCode.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\bin\Debug\AreaCode.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\obj\Debug\AreaCode.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\obj\Debug\AreaCode.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\obj\Debug\AreaCode.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12\AreaCode\obj\Debug\AreaCode.pdb

@@ -1,0 +1,10 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\bin\Debug\FileMarks.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\bin\Debug\FileMarks.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\bin\Debug\FileMarks.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.frmMain.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.Properties.Resources.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.csproj.GenerateResource.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab12_MittalI\FileMarks\obj\Debug\FileMarks.pdb
