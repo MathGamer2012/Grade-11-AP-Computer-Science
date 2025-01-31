@@ -1,0 +1,10 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\bin\Debug\OntarioG1Test.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\bin\Debug\OntarioG1Test.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\bin\Debug\OntarioG1Test.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.frmMain.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.Properties.Resources.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.csproj.GenerateResource.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\OntarioG1Test\obj\Debug\OntarioG1Test.pdb

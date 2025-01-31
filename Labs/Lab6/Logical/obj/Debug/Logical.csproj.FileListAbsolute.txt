@@ -1,0 +1,10 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\bin\Debug\Logical.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\bin\Debug\Logical.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\bin\Debug\Logical.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.frmMain.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.Properties.Resources.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.csproj.GenerateResource.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\Logical\obj\Debug\Logical.pdb
