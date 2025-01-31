@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\bin\Debug\Swap.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\bin\Debug\Swap.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\bin\Debug\Swap.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\obj\Debug\Swap.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\obj\Debug\Swap.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\Swap\obj\Debug\Swap.pdb

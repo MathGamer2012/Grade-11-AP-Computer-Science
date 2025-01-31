@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\bin\Debug\TryParse.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\bin\Debug\TryParse.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\obj\Debug\TryParse.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\obj\Debug\TryParse.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\TryParse\obj\Debug\TryParse.pdb

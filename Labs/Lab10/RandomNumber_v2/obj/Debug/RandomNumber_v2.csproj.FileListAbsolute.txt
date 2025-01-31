@@ -1,0 +1,6 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\RandomNumber_v2\bin\Debug\RandomNumber_v2.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\RandomNumber_v2\bin\Debug\RandomNumber_v2.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\RandomNumber_v2\bin\Debug\RandomNumber_v2.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\RandomNumber_v2\obj\Debug\RandomNumber_v2.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\RandomNumber_v2\obj\Debug\RandomNumber_v2.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab10\RandomNumber_v2\obj\Debug\RandomNumber_v2.pdb
