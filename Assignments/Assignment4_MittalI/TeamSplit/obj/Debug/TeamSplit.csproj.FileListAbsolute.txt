@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\bin\Debug\TeamSplit.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\bin\Debug\TeamSplit.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\bin\Debug\TeamSplit.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\obj\Debug\TeamSplit.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\obj\Debug\TeamSplit.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\obj\Debug\TeamSplit.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\TeamSplit\obj\Debug\TeamSplit.pdb

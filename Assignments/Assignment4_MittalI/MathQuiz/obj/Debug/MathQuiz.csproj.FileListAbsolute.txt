@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment4_MittalI\MathQuiz\obj\Debug\MathQuiz.pdb

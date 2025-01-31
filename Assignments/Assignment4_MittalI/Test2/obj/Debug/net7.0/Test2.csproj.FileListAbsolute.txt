@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\bin\Debug\net7.0\Test2.exe
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\bin\Debug\net7.0\Test2.deps.json
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\bin\Debug\net7.0\Test2.runtimeconfig.json
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\bin\Debug\net7.0\Test2.dll
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\bin\Debug\net7.0\Test2.pdb
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.AssemblyInfo.cs
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.dll
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\refint\Test2.dll
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.pdb
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\Test2.genruntimeconfig.cache
+C:\Users\Dell\Documents\CompSci_School\Assignments\Assignment4_MittalI\Test2\obj\Debug\net7.0\ref\Test2.dll
