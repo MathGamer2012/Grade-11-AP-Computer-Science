@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\bin\Debug\LoopSum.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\bin\Debug\LoopSum.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\bin\Debug\LoopSum.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\obj\Debug\LoopSum.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\obj\Debug\LoopSum.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\obj\Debug\LoopSum.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\LoopSum\obj\Debug\LoopSum.pdb

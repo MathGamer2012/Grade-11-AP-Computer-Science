@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\bin\Debug\SummerPay.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\bin\Debug\SummerPay.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\bin\Debug\SummerPay.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\obj\Debug\SummerPay.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\obj\Debug\SummerPay.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\obj\Debug\SummerPay.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab7\SummerPay\obj\Debug\SummerPay.pdb
