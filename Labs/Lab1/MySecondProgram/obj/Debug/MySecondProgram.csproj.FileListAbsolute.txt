@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\bin\Debug\MySecondProgram.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\bin\Debug\MySecondProgram.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\bin\Debug\MySecondProgram.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\obj\Debug\MySecondProgram.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\obj\Debug\MySecondProgram.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\obj\Debug\MySecondProgram.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\MySecondProgram\obj\Debug\MySecondProgram.pdb

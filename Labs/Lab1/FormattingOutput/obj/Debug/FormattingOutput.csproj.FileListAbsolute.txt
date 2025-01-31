@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\bin\Debug\FormattingOutput.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\bin\Debug\FormattingOutput.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\bin\Debug\FormattingOutput.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\obj\Debug\FormattingOutput.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\obj\Debug\FormattingOutput.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\obj\Debug\FormattingOutput.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab1\FormattingOutput\obj\Debug\FormattingOutput.pdb
