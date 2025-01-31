@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\bin\Debug\CalcAge.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\bin\Debug\CalcAge.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\bin\Debug\CalcAge.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\obj\Debug\CalcAge.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\obj\Debug\CalcAge.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\obj\Debug\CalcAge.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\CalcAge\obj\Debug\CalcAge.pdb

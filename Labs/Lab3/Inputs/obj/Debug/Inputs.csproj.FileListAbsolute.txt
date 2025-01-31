@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\bin\Debug\Inputs.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\bin\Debug\Inputs.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\bin\Debug\Inputs.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\obj\Debug\Inputs.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\obj\Debug\Inputs.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\obj\Debug\Inputs.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab3\Inputs\obj\Debug\Inputs.pdb
