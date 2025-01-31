@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\bin\Debug\IntCalcs.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\bin\Debug\IntCalcs.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\bin\Debug\IntCalcs.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\obj\Debug\IntCalcs.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\obj\Debug\IntCalcs.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\obj\Debug\IntCalcs.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\IntCalcs\obj\Debug\IntCalcs.pdb

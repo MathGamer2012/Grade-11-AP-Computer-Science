@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\bin\Debug\MixCalc.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\bin\Debug\MixCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\bin\Debug\MixCalc.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\obj\Debug\MixCalc.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\obj\Debug\MixCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\obj\Debug\MixCalc.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\MixCalc\obj\Debug\MixCalc.csprojAssemblyReference.cache

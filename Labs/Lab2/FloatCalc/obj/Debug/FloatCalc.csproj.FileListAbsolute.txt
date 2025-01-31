@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\bin\Debug\FloatCalc.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\bin\Debug\FloatCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\bin\Debug\FloatCalc.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\obj\Debug\FloatCalc.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\obj\Debug\FloatCalc.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\obj\Debug\FloatCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab2\FloatCalc\obj\Debug\FloatCalc.pdb
