@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\bin\Debug\CalcQuadratic.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\bin\Debug\CalcQuadratic.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\bin\Debug\CalcQuadratic.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\obj\Debug\CalcQuadratic.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\obj\Debug\CalcQuadratic.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\obj\Debug\CalcQuadratic.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CalcQuadratic\obj\Debug\CalcQuadratic.csprojAssemblyReference.cache

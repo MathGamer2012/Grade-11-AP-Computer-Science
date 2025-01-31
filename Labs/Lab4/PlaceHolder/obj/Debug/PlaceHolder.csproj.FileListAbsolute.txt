@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\bin\Debug\PlaceHolder.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\bin\Debug\PlaceHolder.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\bin\Debug\PlaceHolder.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\obj\Debug\PlaceHolder.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\obj\Debug\PlaceHolder.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\obj\Debug\PlaceHolder.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PlaceHolder\obj\Debug\PlaceHolder.pdb

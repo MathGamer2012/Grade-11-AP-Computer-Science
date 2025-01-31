@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\bin\Debug\CoinExchange.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\bin\Debug\CoinExchange.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\bin\Debug\CoinExchange.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\obj\Debug\CoinExchange.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\obj\Debug\CoinExchange.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\obj\Debug\CoinExchange.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CoinExchange\obj\Debug\CoinExchange.pdb

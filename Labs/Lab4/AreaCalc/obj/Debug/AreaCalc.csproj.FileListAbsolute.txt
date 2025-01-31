@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\bin\Debug\AreaCalc.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\bin\Debug\AreaCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\bin\Debug\AreaCalc.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\obj\Debug\AreaCalc.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\obj\Debug\AreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\obj\Debug\AreaCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\AreaCalc\obj\Debug\AreaCalc.pdb

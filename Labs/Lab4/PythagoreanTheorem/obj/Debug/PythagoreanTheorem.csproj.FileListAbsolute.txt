@@ -1,0 +1,6 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PythagoreanTheorem\bin\Debug\PythagoreanTheorem.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PythagoreanTheorem\bin\Debug\PythagoreanTheorem.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PythagoreanTheorem\bin\Debug\PythagoreanTheorem.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PythagoreanTheorem\obj\Debug\PythagoreanTheorem.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PythagoreanTheorem\obj\Debug\PythagoreanTheorem.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\PythagoreanTheorem\obj\Debug\PythagoreanTheorem.pdb

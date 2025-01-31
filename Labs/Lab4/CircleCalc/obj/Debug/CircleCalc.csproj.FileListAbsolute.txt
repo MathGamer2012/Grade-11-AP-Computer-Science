@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\bin\Debug\CircleCalc.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\bin\Debug\CircleCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\bin\Debug\CircleCalc.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\obj\Debug\CircleCalc.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\obj\Debug\CircleCalc.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\obj\Debug\CircleCalc.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab4\CircleCalc\obj\Debug\CircleCalc.pdb
