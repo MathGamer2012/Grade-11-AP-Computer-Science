@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\bin\Debug\Marks.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\bin\Debug\Marks.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\bin\Debug\Marks.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\obj\Debug\Marks.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\obj\Debug\Marks.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\obj\Debug\Marks.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\Marks\obj\Debug\Marks.pdb

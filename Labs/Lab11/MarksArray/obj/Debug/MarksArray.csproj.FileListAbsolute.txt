@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\bin\Debug\MarksArray.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\bin\Debug\MarksArray.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\bin\Debug\MarksArray.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\obj\Debug\MarksArray.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\obj\Debug\MarksArray.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\obj\Debug\MarksArray.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArray\obj\Debug\MarksArray.pdb

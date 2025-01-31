@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\bin\Debug\MarksArrayV3.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\bin\Debug\MarksArrayV3.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\bin\Debug\MarksArrayV3.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\obj\Debug\MarksArrayV3.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\obj\Debug\MarksArrayV3.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\obj\Debug\MarksArrayV3.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\MarksArrayV3\obj\Debug\MarksArrayV3.pdb

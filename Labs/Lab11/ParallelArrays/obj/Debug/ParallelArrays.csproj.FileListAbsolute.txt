@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\bin\Debug\ParallelArrays.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\bin\Debug\ParallelArrays.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\bin\Debug\ParallelArrays.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\obj\Debug\ParallelArrays.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\obj\Debug\ParallelArrays.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\obj\Debug\ParallelArrays.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ParallelArrays\obj\Debug\ParallelArrays.pdb
