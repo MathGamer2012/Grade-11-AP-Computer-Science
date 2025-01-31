@@ -1,0 +1,10 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\bin\Debug\NumberSign.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\bin\Debug\NumberSign.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\bin\Debug\NumberSign.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.Properties.Resources.resources
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.csproj.GenerateResource.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab6\NumberSign\obj\Debug\NumberSign.frmMain.resources
