@@ -1,0 +1,14 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\bin\Debug\Starshape.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\bin\Debug\Starshape.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\bin\Debug\Starshape.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\obj\Debug\Starshape.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\obj\Debug\Starshape.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\obj\Debug\Starshape.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1\Starshape\obj\Debug\Starshape.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\bin\Debug\Starshape.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\bin\Debug\Starshape.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\bin\Debug\Starshape.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\obj\Debug\StarShape.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\obj\Debug\StarShape.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\obj\Debug\Starshape.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Assignments\Assignment1_MittalI\Starshape\obj\Debug\Starshape.pdb
