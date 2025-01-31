@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\bin\Debug\ArraySize.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\bin\Debug\ArraySize.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\bin\Debug\ArraySize.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\obj\Debug\ArraySize.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\obj\Debug\ArraySize.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\obj\Debug\ArraySize.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySize\obj\Debug\ArraySize.pdb

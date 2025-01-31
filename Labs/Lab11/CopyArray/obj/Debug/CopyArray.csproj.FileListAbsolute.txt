@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\bin\Debug\CopyArray.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\bin\Debug\CopyArray.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\bin\Debug\CopyArray.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\obj\Debug\CopyArray.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\obj\Debug\CopyArray.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\obj\Debug\CopyArray.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\CopyArray\obj\Debug\CopyArray.pdb

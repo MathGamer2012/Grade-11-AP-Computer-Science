@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\bin\Debug\ArraySum.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\bin\Debug\ArraySum.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\bin\Debug\ArraySum.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\obj\Debug\ArraySum.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\obj\Debug\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\obj\Debug\ArraySum.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArraySum\obj\Debug\ArraySum.pdb

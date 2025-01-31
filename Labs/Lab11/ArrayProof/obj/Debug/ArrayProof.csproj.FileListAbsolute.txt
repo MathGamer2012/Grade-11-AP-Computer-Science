@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\bin\Debug\ArrayProof.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\bin\Debug\ArrayProof.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\bin\Debug\ArrayProof.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\obj\Debug\ArrayProof.csprojAssemblyReference.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\obj\Debug\ArrayProof.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\obj\Debug\ArrayProof.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\ArrayProof\obj\Debug\ArrayProof.pdb

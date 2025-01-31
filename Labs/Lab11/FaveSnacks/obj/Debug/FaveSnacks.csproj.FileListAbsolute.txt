@@ -1,0 +1,7 @@
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\bin\Debug\FaveSnacks.exe.config
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\bin\Debug\FaveSnacks.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\bin\Debug\FaveSnacks.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\obj\Debug\FaveSnacks.csproj.CoreCompileInputs.cache
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\obj\Debug\FaveSnacks.exe
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\obj\Debug\FaveSnacks.pdb
+C:\Users\ishmi\OneDrive\Documents\CompSci_School\Labs\Lab11\FaveSnacks\obj\Debug\FaveSnacks.csprojAssemblyReference.cache
